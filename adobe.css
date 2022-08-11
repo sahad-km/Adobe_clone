@@ -1,0 +1,197 @@
+body{
+    margin: 0%;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    /* position: fixed; */
+}
+.image{
+    width: 116px;
+    height: 60px;
+    float: left;
+}
+.magnifier{
+    margin-top: 27px;
+    margin-left: 1050px;
+    float: left;
+}
+.signin{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    float: left;
+    margin-top: 27px;
+}
+.body1{
+    background-image: url("ezgif.com-gif-maker.png");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    
+}
+.pspic{
+    width: 70px;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 130px;
+}
+.banner1{
+    font-size: 40px;
+    margin-left: 130px;
+    font-weight: bolder;
+    color: #2C2C2C;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+.banner2{
+    margin-top: -20px;
+    margin-left: 130px;
+    font-size: 20px;
+    color: #2C2C2C;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+.button1{
+    width: 150px;
+    height: 52px;
+    border-radius: 26px;
+    background: transparent;
+    margin-left: 130px;
+    font-size: large;
+}
+.button2{
+    margin-left: 25px;
+    width: 150px;
+    height: 52px;
+    border-radius: 26px;
+    background-color: #1473e6;
+    border-color: #1473e6;
+    color: #fff;
+    font-size: large;
+}
+.button1:hover{
+    color: white;
+    background-color: black;
+}
+.button2:hover{
+    background-color: #096ce4;
+}
+.link{
+    text-underline-offset: #2c2c2c;
+    color: #2C2C2C;
+}
+.para2{
+    color: #2C2C2C;
+    font-size: 17px;
+    margin-left: 130px;
+}
+.body2{
+    width: 100%;
+    height: 500px;
+}
+.para3{
+    color: #2c2c2c;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 130px;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+.col1{
+    margin-left: 130px;
+    width: 350px;
+    height: 580px;
+    float: left;
+}
+.img1{
+    width: 350px;
+    height: 270px;
+}
+.para4{
+    font-size: larger;
+    font-weight: bold;
+    color: #2C2C2C;
+
+}
+.para5{
+    font-size: 17px;
+    color: #2C2C2C;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+.col2{
+    width: 350px;
+    height: 580px;
+    float: left;
+    margin-left: 50px;
+}
+.img2{
+    width: 350px;
+    height: 270px;
+}
+.col3{
+    width: 350px;
+    height: 580px;
+    float: left;
+    margin-left: 50px;
+}
+.img3{
+    width: 350px;
+    height: 270px;
+}
+.line{
+    background-color: #1473e6;
+    width: 100%;
+    height: 10px;
+    float: left;
+}
+.body3{
+    width: 100%;
+    height: 320px;
+    float: left;
+}
+.para6{
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Trebuchet MS,Lucida Grande,sans-serif;
+}
+.para7{
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+    font-family: adobe-clean,Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;
+}
+.button3{
+    width: 150px;
+    height: 52px;
+    border-radius: 26px;
+    background: transparent;
+    margin-left: 386px;
+    font-size: large;
+}
+.button3:hover{
+    background-color: black;
+    color: white;
+}
+.region{
+    background: transparent;
+    border-color: white;
+    font-size: smaller;
+    color: #2C2C2C;
+    float: left;
+    margin-top: 154px;
+    margin-left: 20px;
+}
+.lastlink{
+    font-size: smaller;
+    color: #2c2c2c;
+    margin-top: 120px;
+    margin-left: 597px;
+}
+.linklast{
+    text-decoration: none;
+    color: #2C2C2C;
+}
+.magnifier:hover{
+    color: #1473e6;
+}
